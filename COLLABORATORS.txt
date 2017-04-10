@@ -1,0 +1,58 @@
+Collaborators:
+Jacob A. Cluff
+Cameron Howard
+
+trappist_1.py Contributions
+
+Jacob Cluff:
+imported libraries
+-wrote "Constants and Conversions" section
+-wrote "Find Initital Conditions" section
+-wrote "Parameters Arrays" section
+-wrote "Important Functions" section
+-wrote "Integrators" section
+-wrote "Energy" section
+-wrote "Write Arrays" section - Cameron added in all "nearby planets" related code in this section
+
+Cameron Howard:
+-nearby planet related code
+
+
+
+
+project_2.ipynb Contributions
+
+Jacob Cluff:
+-wrote "Import" section
+-wrote "Compile Position and Velocity Arrays" section
+-wrote "1000 day Trajectories for Trappist-1 System" section
+-wrote "Trappist-1 Wobble" section
+-wrote "Energy Conservation" section
+-wrote Momentum conservation" section
+
+Cameron Howard:
+nearby planet related sections and plots
+
+
+
+MIS contributions
+
+Jacob Cluff:
+README.txt
+COLLABORATORS.txt
+.gitignore
+test.py
+npy/** (except nearby planet related stuff)
+
+Cameron Howard:
+nearby planet related arrays in npy/
+
+
+
+
+
+
+
+
+
+

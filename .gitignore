@@ -1,0 +1,7 @@
+$ git status
+
+**.npy
+**.pyc
+
+__pycache__/**
+.ipynb_checkpoints/**

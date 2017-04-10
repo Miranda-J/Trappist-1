@@ -1,0 +1,1 @@
+This folder contains/will contain the numpy arrays of planets' positions and velocities.
